@@ -1,4 +1,4 @@
-[submodule ""lib/submodule_test"]
-	path = "lib/submodule_test
+[submodule "submodule_test"]
+	path = lib/submodule_test
 	url = https://github.com/ashehata71/submodule_test.git
-	branch = greeting-package
+	branch = main
