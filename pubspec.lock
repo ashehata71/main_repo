@@ -176,6 +176,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+  submodule_repo:
+    dependency: "direct main"
+    description:
+      path: submodule_test
+      relative: true
+    source: path
+    version: "1.0.0+1"
   term_glyph:
     dependency: transitive
     description:
